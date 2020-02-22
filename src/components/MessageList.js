@@ -13,6 +13,10 @@ class MessagesList extends Component {
       li: {
         marginTop: 13,
         marginBottom: 13,
+        background: '#bebeff',
+        padding: 14,
+        borderRadius: 50,
+        width: '45%',
       },
       senderUsername: {
         fontWeight: 'bold',
